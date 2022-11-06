@@ -1,0 +1,20 @@
+{
+  "name": "hackcade2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "pg": "^8.8.0",
+    "postgres-bytea": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.6.5"
+  }
+}
